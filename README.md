@@ -1,5 +1,5 @@
 ## CCPROG3 Machine Project - Phase 2
-<b>Vending Machine Factory Simulator in Java</b>.<br><br>
+<b>Vending Machine Factory Simulator</b> in Java.<br><br>
 Created by:<br> Jose Mari Del Castillo <br>
 Cassandra Lois Ang<br><br>
 Submission Date: August 3, 2023
